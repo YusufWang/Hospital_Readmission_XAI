@@ -1,0 +1,6 @@
+age,time_in_hospital,n_lab_procedures,n_procedures,n_medications,n_outpatient,n_inpatient,n_emergency,medical_specialty,diag_1,diag_2,diag_3,glucose_test,A1Ctest,change,diabetes_med,total_visits,any_inpatient,readmitted_bin
+[70-80),4,42,0,8,25,0,0,Missing,Circulatory,Circulatory,Other,no,no,yes,yes,28,0,1
+[70-80),4,42,0,8,0,0,36,Missing,Circulatory,Circulatory,Other,no,no,yes,yes,0,0,1
+[70-80),10,42,0,8,27,0,0,Missing,Circulatory,Circulatory,Other,no,no,yes,yes,0,0,1
+[70-80),4,42,0,8,0,0,0,Missing,Circulatory,Circulatory,Other,no,no,yes,yes,51,0,1
+[70-80),4,42,0,8,0,2,29,Missing,Circulatory,Circulatory,Other,no,no,yes,yes,0,0,1
